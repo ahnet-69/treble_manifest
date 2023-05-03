@@ -4,9 +4,11 @@
 <remote name="td" fetch="https://github.com/TrebleDroid/" />
 <remote name="github" fetch="https://github.com/" />
 <remote name="naz" fetch="https://github.com/naz664/" />
+<remote name="google" fetch="https://android.googlesource.com/" />
 
 <project path="packages/apps/openeuicc" name="packages_apps_openeuicc" remote="naz" revision="main" />
 <project path="device/phh/treble" name="device_phh_treble" remote="td" revision="android-13.0" />
+<project path="device/sample" name="device/sample" remote="google" revision="master" />
 <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="td" revision="pie" />
 
 <project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="master" />
