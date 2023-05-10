@@ -7,7 +7,7 @@
 <remote name="google" fetch="https://android.googlesource.com/" />
 
 <project path="packages/apps/openeuicc" name="packages_apps_openeuicc" remote="naz" revision="main" />
-<project path="device/phh/treble" name="device_phh_treble" remote="naz" revision="android-13.0" />
+<project path="device/phh/treble" name="device_phh_treble" remote="td" revision="android-13.0" />
 <project path="device/sample" name="device/sample" remote="google" revision="master" />
 <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="td" revision="pie" />
 
