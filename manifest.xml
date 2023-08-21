@@ -19,4 +19,6 @@
 <project path="vendor/magisk" name="vendor_magisk" remote="phh" revision="android-10.0" />
 
 <project path="packages/apps/QcRilAm" name="AndyCGYan/android_packages_apps_QcRilAm" remote="github" revision="master" />
+
+<project path="packages/apps/GameSpace" name="ahnet-69/packages_apps_GameSpace" remote="github" revision="13" />
 </manifest>
