@@ -5,6 +5,7 @@
 <remote name="github" fetch="https://github.com/" />
 <remote name="naz" fetch="https://github.com/naz664/" />
 <remote name="google" fetch="https://android.googlesource.com/" />
+<remote name="gitlab" fetch="https://gitlab.com/" />
 
 <project path="packages/apps/openeuicc" name="packages_apps_openeuicc" remote="naz" revision="main" />
 <project path="device/phh/treble" name="device_phh_treble" remote="td" revision="android-13.0" />
@@ -18,4 +19,6 @@
 <project path="vendor/magisk" name="vendor_magisk" remote="phh" revision="android-10.0" />
 
 <project path="packages/apps/QcRilAm" name="AndyCGYan/android_packages_apps_QcRilAm" remote="github" revision="master" />
+
+<project name="arrowos-project/android_vendor_gapps" path="vendor/gapps" remote="gitlab" revision="arrow-13.0" />
 </manifest>
