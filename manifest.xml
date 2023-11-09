@@ -2,7 +2,7 @@
 <manifest>
 <project path="device/phh/treble" name="Trebledroid/device_phh_treble" remote="github" revision="android-14.0" />
 <project path="vendor/hardware_overlay" name="Trebledroid/vendor_hardware_overlay" remote="github" revision="pie" />
-<project path="vendor/interfaces" name="Trebledroid/vendor_interfaces" remote="github" revision="android-13.0" />
+<project path="vendor/interfaces" name="Trebledroid/vendor_interfaces" remote="github" revision="android-14.0" />
 
 <project path="vendor/vndk-tests" name="phhusson/vendor_vndk-tests" remote="github" revision="master" />
 <project path="vendor/lptools" name="phhusson/vendor_lptools" remote="github" revision="master" />
