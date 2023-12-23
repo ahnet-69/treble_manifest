@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="github" fetch="https://github.com/" />
-<remote name="gitlab" fetch="https://gitlab.com" />
 
 <project path="device/phh/treble" name="TrebleDroid/device_phh_treble" remote="github" revision="android-14.0" />
 <project path="vendor/hardware_overlay" name="TrebleDroid/vendor_hardware_overlay" remote="github" revision="pie" />
